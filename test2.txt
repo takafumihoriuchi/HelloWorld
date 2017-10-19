@@ -1,1 +1,2 @@
-this is the second test file
+this is the second (yes, and it is a) test file for understanding push and commits
+I'm having trouble getting used to vim.
