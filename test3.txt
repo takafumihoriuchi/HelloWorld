@@ -1,1 +1,2 @@
 this is a file for checking on how branch works
+adding another line to file "test3.txt"
