@@ -1,7 +1,4 @@
 this is the fifth file
-
-below is a list of random words created by replacing the first letter of "file"
 file gile hile jile kile lile dile sile aile
-below is another list of random words
 hello there yere uere
 
