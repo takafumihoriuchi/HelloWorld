@@ -1,2 +1,2 @@
 # HelloWorld
-for testing how to use GitHub
+for learning how to use GitHub
